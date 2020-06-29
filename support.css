@@ -1,0 +1,23 @@
+.layer{
+background-image: url(..//webasus/support/kv01.jpg);
+min-height: 500px;
+background-size: cover;
+}
+.layer2{
+    background-color: darkgrey;
+    min-height: 120px;
+}
+.layer3{
+    background-color: whitesmoke);
+    min-height: 400px;
+}
+.layer4{
+    min-height: 400px;
+}
+.layer5{
+    min-height: 300px;
+}
+.layer6{
+    min-height: 400px;
+    background-color: gray;
+}
